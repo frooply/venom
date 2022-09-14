@@ -1,0 +1,19 @@
+#package-lock.json
+
+# Node modules
+node_modules
+hotmobilebot/node_modules
+redirecionamento.html
+
+
+tokens
+# Adonis directory for storing tmp files
+tmp
+
+# Environment variables, never commit this file
+
+# The development sqlite file
+database/*.sqlite
+package-lock.json
+.env
+package-lock.json
